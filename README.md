@@ -37,7 +37,8 @@ Note: The system can be utilized for data from years other than 2020.
 <br>
 
 ## Project Structure 
-- 
+- Data Structure: Combined sorted linked lists to manage and process electricity data.
+- Input Data: A CSV file containing daily electricity records, including the following fields:
 
 
 
