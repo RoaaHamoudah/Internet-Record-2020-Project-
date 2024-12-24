@@ -39,7 +39,15 @@ Note: The system can be utilized for data from years other than 2020.
 ## Project Structure 
 - Data Structure: Combined sorted linked lists to manage and process electricity data.
 - Input Data: A CSV file containing daily electricity records, including the following fields:
-
+   - Date
+   - Israeli_Lines_MWs
+   - Gaza_Power_Plant_MWs
+   - Egyptian_Lines_MWs
+   - Total_daily_Supply_available_in_MWs
+   - Overall_demand_in_MWs
+   - Power_Cuts_hours_day_400mg
+   - Temp
+- GUI: JavaFX-based interface for choosing the CSV file, managing records, viewing statistics, and saving data.
 
 
 
