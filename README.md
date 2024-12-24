@@ -48,5 +48,3 @@ Note: The system can be utilized for data from years other than 2020.
    - Power_Cuts_hours_day_400mg
    - Temp
 - GUI: JavaFX-based interface for choosing the CSV file, managing records, viewing statistics, and saving data.
-
-
