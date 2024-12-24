@@ -51,10 +51,10 @@ Note: The system can be utilized for data from years other than 2020.
 <br>
 
 ## Screenshots
-#### File Screen
+### File Screen
 ![Screenshot (1594)](https://github.com/user-attachments/assets/e33c4973-794c-4cd4-be70-f70b483f23db)
 
-#### Management Screen
+### Management Screen
 ![Screenshot (1595)](https://github.com/user-attachments/assets/155fd61e-e1f7-43c6-ae11-00b235039734)
 
 ![Screenshot (1596)](https://github.com/user-attachments/assets/e555b96c-e554-4834-992a-5fc8a2c02483)
@@ -63,7 +63,7 @@ Note: The system can be utilized for data from years other than 2020.
 
 ![Screenshot (1598)](https://github.com/user-attachments/assets/c11d534b-d4d3-4e45-bd40-fa54e6897eb8)
 
-#### Statistics Screen
+### Statistics Screen
 ![Screenshot (1605)](https://github.com/user-attachments/assets/5a597fd9-41d0-4636-9ff5-496a3922a11d)
 
 ![Screenshot (1600)](https://github.com/user-attachments/assets/541b7da0-f1a5-40b9-ba02-fe9f35329e88)
@@ -74,5 +74,5 @@ Note: The system can be utilized for data from years other than 2020.
 
 ![Screenshot (1603)](https://github.com/user-attachments/assets/6f236883-1ec0-476a-bc52-4daa9f07de6d)
 
-#### Save Screen
+### Save Screen
 ![Screenshot (1604)](https://github.com/user-attachments/assets/1aba6735-3676-42a1-add6-96df00147164)
