@@ -63,4 +63,16 @@ Note: The system can be utilized for data from years other than 2020.
 
 ![Screenshot (1598)](https://github.com/user-attachments/assets/c11d534b-d4d3-4e45-bd40-fa54e6897eb8)
 
+#### Statistics Screen
+![Screenshot (1605)](https://github.com/user-attachments/assets/5a597fd9-41d0-4636-9ff5-496a3922a11d)
 
+![Screenshot (1600)](https://github.com/user-attachments/assets/541b7da0-f1a5-40b9-ba02-fe9f35329e88)
+
+![Screenshot (1601)](https://github.com/user-attachments/assets/0577cf16-a64d-451a-859d-4c1172627576)
+
+![Screenshot (1602)](https://github.com/user-attachments/assets/057eab09-3140-40e2-a6fb-342827feb506)
+
+![Screenshot (1603)](https://github.com/user-attachments/assets/6f236883-1ec0-476a-bc52-4daa9f07de6d)
+
+#### Save Screen
+![Screenshot (1604)](https://github.com/user-attachments/assets/1aba6735-3676-42a1-add6-96df00147164)
