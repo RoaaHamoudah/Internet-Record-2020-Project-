@@ -6,7 +6,7 @@ Note: The system can be utilized for data from years other than 2020.
 
 ## Features
 ### File Screen
-1) load CSV File
+- load CSV File
    - Use a file chooser to select the electricity data file and load it into the application.
 <br>
 
