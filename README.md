@@ -32,7 +32,8 @@ Note: The system can be utilized for data from years other than 2020.
 <br>
 
 ### Save Screen
-- Save the updated linked lists back to a new CSV file in the same format, separated by commas (,).
+ - Save the updated linked lists back to a new CSV file in the same format, separated by commas (,).
+ - Use a file chooser to select the folder where the file will be saved.
 
 
 
