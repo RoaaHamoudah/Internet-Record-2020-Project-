@@ -29,6 +29,11 @@ Note: The system can be utilized for data from years other than 2020.
 4) Total Statistics for All Data
    - Maximum, Minimum: For Israeli_Lines_MWs, Gaza_Power_Plant_MWs, and Egyptian_Lines_MWs.
    - Total, Maximum, Minimum, Average: For Total_daily_Supply_available_in_MWs, Overall_demand_in_MWs, Power_Cuts_hours_day_400mg, and Temp.
+<br>
+
+### Save Screen
+- Save the updated linked lists back to a new CSV file in the same format, separated by commas (,).
+
 
 
 
