@@ -54,6 +54,13 @@ Note: The system can be utilized for data from years other than 2020.
 #### File Screen
 ![Screenshot (1594)](https://github.com/user-attachments/assets/e33c4973-794c-4cd4-be70-f70b483f23db)
 
+#### Management Screen
+![Screenshot (1595)](https://github.com/user-attachments/assets/155fd61e-e1f7-43c6-ae11-00b235039734)
 
+![Screenshot (1596)](https://github.com/user-attachments/assets/e555b96c-e554-4834-992a-5fc8a2c02483)
+
+![Screenshot (1597)](https://github.com/user-attachments/assets/186c6b2d-0ddf-4ed9-ad6c-0aa8bb68c95b)
+
+![Screenshot (1598)](https://github.com/user-attachments/assets/c11d534b-d4d3-4e45-bd40-fa54e6897eb8)
 
 
