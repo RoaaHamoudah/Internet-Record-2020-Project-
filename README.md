@@ -5,6 +5,15 @@ users can load data from a file, insert or delete country records, search by nam
 Note: The system can be utilized for data from years other than 2020.
 
 ## Features
-#### Management Screen
+### File Screen
+1) load CSV File
+   - Use a file chooser to select the electricity data file and load it into the application.
+<br>
+### Management Screen
+1) Insert a New Record
+2) Update an Existing Record
+3) Delete a Record
+4) Search for a Record by Date
+
 
 
