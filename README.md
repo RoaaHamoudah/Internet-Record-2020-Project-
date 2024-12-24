@@ -13,9 +13,15 @@ Note: The system can be utilized for data from years other than 2020.
 ### Management Screen
 
 1) Insert a New Record
-2) Update an Existing Record
-3) Delete a Record
-4) Search for a Record by Date
+2) Update or Delete electricity record
+3) Search for a Record by Date
+<br>
+
+### Statistics Screen
+
+
+
+
 
 
 
