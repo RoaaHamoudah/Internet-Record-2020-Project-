@@ -24,8 +24,12 @@ Note: The system can be utilized for data from years other than 2020.
     - **Display**: Show all countries where the percentage of individuals using the internet exceeds a user-specified threshold. Results are displayed in a table.
 
 ## File Structure
-- **`internet_2020.csv`**: The input file containing country records. Each line contains the country name and the percentage of individuals using the internet.  
-  Example:
+- **`internet_2020.csv`**: The input file containing country records. Each line contains the country name and the percentage of individuals using the internet.
+    
+  Examples:
+  Afghanistan,18.4
+  Albania,72.2
+  Algeria,62.9
 
 
 
