@@ -27,6 +27,7 @@ Note: The system can be utilized for data from years other than 2020.
 - **`internet_2020.csv`**: The input file containing country records. Each line contains the country name and the percentage of individuals using the internet.
     
   Examples:
+  <br>
   Afghanistan,18.4
   <br>
   Albania,72.2
