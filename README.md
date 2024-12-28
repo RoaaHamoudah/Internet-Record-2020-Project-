@@ -9,6 +9,8 @@ Note: The system can be utilized for data from years other than 2020.
 ## Features
 1. **Custom List Implementation**:
     - The list is implemented using an array with an initial size of 16.
+    - The list resizes dynamically by doubling its size when needed.
+    - Use of `ArrayList` or similar library classes is not allowed.
  
 
 
