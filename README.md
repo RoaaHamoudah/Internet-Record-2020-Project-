@@ -28,7 +28,9 @@ Note: The system can be utilized for data from years other than 2020.
     
   Examples:
   Afghanistan,18.4
+  <br>
   Albania,72.2
+  <br>
   Algeria,62.9
 
 
