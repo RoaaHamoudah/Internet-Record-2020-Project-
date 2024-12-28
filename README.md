@@ -33,10 +33,4 @@ Note: The system can be utilized for data from years other than 2020.
   Albania,72.2
   <br>
   Algeria,62.9
-
-
-
- 
-
-
-
+  
