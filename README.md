@@ -26,7 +26,7 @@ Note: The system can be utilized for data from years other than 2020.
 ## File Structure
 - **`internet_2020.csv`**: The input file containing country records. Each line contains the country name and the percentage of individuals using the internet.
     
-  Examples:
+  **Examples:**
   <br>
   Afghanistan,18.4
   <br>
