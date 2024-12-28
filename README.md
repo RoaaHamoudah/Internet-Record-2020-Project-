@@ -19,6 +19,7 @@ Note: The system can be utilized for data from years other than 2020.
   
 3. **Functionalities**:
     - **Insert**: Add a new country record to the list (e.g., add Palestine).
+    - **Delete**: Remove a country record from the list by country name (e.g., delete Finland).
 
 
 
