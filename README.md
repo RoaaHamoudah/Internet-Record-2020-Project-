@@ -18,6 +18,7 @@ Note: The system can be utilized for data from years other than 2020.
     - Provides options for various operations on the list.
   
 3. **Functionalities**:
+    - **Insert**: Add a new country record to the list (e.g., add Palestine).
 
 
 
