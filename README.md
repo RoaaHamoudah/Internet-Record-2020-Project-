@@ -11,6 +11,11 @@ Note: The system can be utilized for data from years other than 2020.
     - The list is implemented using an array with an initial size of 16.
     - The list resizes dynamically by doubling its size when needed.
     - Use of `ArrayList` or similar library classes is not allowed.
+
+2. **Graphical User Interface (GUI)**:
+    - Built using JavaFX (Scene Builder is not allowed).
+    - Includes a file chooser for loading the `internet_2020.csv` file.
+
  
 
 
