@@ -16,6 +16,9 @@ Note: The system can be utilized for data from years other than 2020.
     - Built using JavaFX (Scene Builder is not allowed).
     - Includes a file chooser for loading the `internet_2020.csv` file.
     - Provides options for various operations on the list.
+  
+3. **Functionalities**:
+
 
 
 
